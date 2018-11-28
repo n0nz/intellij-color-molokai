@@ -3,14 +3,14 @@
     <property name="created">2018-08-20T09:40:13</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-11-22T10:54:16</property>
+    <property name="modified">2018-11-28T10:30:03</property>
     <property name="originalScheme">Molokai</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a6e22d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="fcfcfa" />
-    <option name="CARET_ROW_COLOR" value="282A2E" />
+    <option name="CARET_ROW_COLOR" value="282a2e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="161616" />
     <option name="DELETED_LINES_COLOR" value="fd4285" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -55,7 +55,7 @@
     <option name="SELECTION_BACKGROUND" value="403e41" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
-    <option name="TEARLINE_COLOR" value="282A2E" />
+    <option name="TEARLINE_COLOR" value="282a2e" />
     <option name="TOOLTIP" value="403e41" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="727072" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
@@ -815,8 +815,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fd4285" />
-        <option name="ERROR_STRIPE_COLOR" value="fd4285" />
+        <option name="EFFECT_COLOR" value="b71c1c" />
+        <option name="ERROR_STRIPE_COLOR" value="b71c1c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
