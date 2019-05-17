@@ -3,7 +3,7 @@
     <property name="created">2018-08-20T09:40:13</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-12-04T14:49:37</property>
+    <property name="modified">2019-03-28T10:51:37</property>
     <property name="originalScheme">Molokai</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="fcfcfa" />
     <option name="CARET_ROW_COLOR" value="282a2e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="161616" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
     <option name="DELETED_LINES_COLOR" value="fd4285" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -37,7 +37,7 @@
     <option name="FILESTATUS_addedOutside" value="aedc70" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="161616" />
+    <option name="GUTTER_BACKGROUND" value="171717" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
@@ -320,7 +320,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="161616" />
+        <option name="FOREGROUND" value="171717" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -562,13 +562,13 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="3a8bda" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="2979ff" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -817,7 +817,6 @@
       <value>
         <option name="EFFECT_COLOR" value="b71c1c" />
         <option name="ERROR_STRIPE_COLOR" value="b71c1c" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -1126,6 +1125,11 @@
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="fd4285" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
@@ -2752,7 +2756,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="161616" />
+        <option name="BACKGROUND" value="171717" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2764,8 +2768,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7a73ff" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ff8c" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="b8ffd2" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
