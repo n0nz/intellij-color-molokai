@@ -13,4 +13,4 @@ Jetbrains Plugin Page: https://plugins.jetbrains.com/plugin/12427-molokai-color-
 Installation (Mac):
 - Copy "*.icls" to "/Users/\<Username\>/Library/Preferences/IntelliJIdea\<Version\>/colors"
 
-![Screenshot 01](https://raw.githubusercontent.com/nzer0nz/intellij-color-molokai/master/screenshots/Molokai.png)
+![Screenshot 01](https://plugins.jetbrains.com/files/12427/screenshot_19951.png)
